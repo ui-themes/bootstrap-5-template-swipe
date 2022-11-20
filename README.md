@@ -1,6 +1,12 @@
-<a href="https://themesberg.com/black-friday?utm_medium=social&utm_source=github&utm_campaign=bf-readme-2020">
-<img border="0" alt="Themesberg Black Friday Offer 2020" src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/black-friday/2020/black-friday-bootstrap-themes.png" >
-</a>
+<br />
+
+## [Black Friday 2022](https://appseed.us) - `75%OFF`
+
+> The campaign is active until `30.NOV` and applies to all products and licenses.
+
+[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
+
+<br />
 
 # [Swipe - One Page Bootstrap 5 Template for Mobile Applications](https://demo.themesberg.com/swipe/)
 
