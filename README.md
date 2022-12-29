@@ -1,10 +1,13 @@
-<br />
+## ✨ [Flexy Free NextJS](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157)
 
-## [Black Friday 2022](https://appseed.us) - `75%OFF`
+Flexy Free Nextjs version is built with Most Popular Framework React Material-UI. 
 
-> The campaign is active until `30.NOV` and applies to all products and licenses.
+- 👉 [Flexy Free NextJS](https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/?ref=157) - product page
+- 🎁 More [NextJS Templates](https://www.wrappixel.com/templates/category/nextjs/?ref=157) crafted by WrapPixel
 
-[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
+The free product comes with an elegant grid design that helps you play around with the look and feel of the web app the way you want. it's a carefully hand-crafted minimal admin template, It's built with modular and modern design.
+
+![Flexy Nextjs (Free Template) - Charts Page.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i6n0o2xfcdt8fw3chx53.png)
 
 <br />
 
